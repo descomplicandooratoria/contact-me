@@ -45,9 +45,6 @@
     transform: translate3d(0px, 0px, 0px) scale(1.015);
 }
 
-.page-item-wrap {
-    }
-
 .page-item {
     border: 0 solid #FFFFFF;
     background: #FFFFFF;
@@ -83,13 +80,4 @@
 
 .page-overlay-btn {
     border: 2px solid #1F365C;
-}
-
-.footer-copy {
-    bottom: 0;
-    position: fixed;
-    width: 90%;
-    text-align: center;
-    color: white;
-    text-decoration: none;
 }
